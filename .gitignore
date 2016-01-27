@@ -1,0 +1,20 @@
+#OS X garbage
+*~
+.DS_Store
+
+#IntelliJ IDEA project files
+.idea/
+*.iml
+
+#Compiled Python files
+*.pyc
+*.egg-info
+
+#Generated files
+build/
+dist/
+*.egg/
+MANIFEST
+coverage.xml
+.coverage
+*.log
